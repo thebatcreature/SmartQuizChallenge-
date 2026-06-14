@@ -1,0 +1,4 @@
+Joe Goldberg | 2/3 | Programming | Easy
+Dextor | 1/3 | Sports | Easy
+Barry | 1/3 | General Knowledge | Easy
+Joe | 0/3 | Programming | Easy
